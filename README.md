@@ -6,11 +6,13 @@ Seja bem-vindo ao meu perfil!
 ## 👨‍💻 Sobre mim
 
 - 📱 Desenvolvedor Flutter / Dart
+- 🤖 Engenheiro de prompts 
 - 📚 Atualmente estudando ainda mais Dart, Flutter, Banco de Dados e APIs REST
 - 🚀 Construindo projetos para evoluir como desenvolvedor Mobile
 - 🎯 Objetivo: ingressar no mercado e me tornar um desenvolvedor Flutter Full Stack
 
-## 🛠️ Tecnologias que estou aprendendo
+
+## 🛠️ Tecnologias que utilizo
 
 - Flutter
 - Dart
@@ -18,6 +20,7 @@ Seja bem-vindo ao meu perfil!
 - SQLite
 - APIs REST
 - Postman
+- LLM's e SLM's para resolução de problemas e criação de conteúdo especializado
 
 ## 📈 Atualmente
 
