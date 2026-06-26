@@ -14,7 +14,7 @@
 
 - 📱  **Desenvolvedor Flutter / Dart**
 - 🤖 **Engenheiro de Prompts**
-- 📚 Atualmente estudando **Dart, Flutter, Bancos de Dados e APIs REST**
+- 📚 Atualmente adepto(e evoluindo) em **Dart, Flutter, Bancos de Dados e APIs REST**
 - 🚀 Construindo projetos para evoluir como desenvolvedor Mobile
 - 🎯 **Objetivo:** Ingressar no mercado e me tornar um **Desenvolvedor Flutter Full Stack**
 
