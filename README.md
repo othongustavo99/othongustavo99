@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 📱 **Desenvolvedor Flutter / Dart**
+- 📱  **Desenvolvedor Flutter / Dart**
 - 🤖 **Engenheiro de Prompts**
 - 📚 Atualmente estudando **Dart, Flutter, Bancos de Dados e APIs REST**
 - 🚀 Construindo projetos para evoluir como desenvolvedor Mobile
