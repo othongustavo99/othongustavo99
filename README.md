@@ -1,5 +1,9 @@
 
-# Olá, eu sou o Othon Gustavo! 👋
+<h1 align="center">Olá, eu sou o Othon Gustavo 👋</h1>
+
+<p align="center">
+Desenvolvedor Flutter em formação • Mobile • APIs • IA
+</p>
 
 Seja bem-vindo ao meu perfil!
 
