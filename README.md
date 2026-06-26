@@ -28,7 +28,7 @@
 - **SQLite**
 - **APIs REST**
 - **Postman**
-- **LLMs e SLMs** (para resolução de problemas e criação de conteúdo)
+- **LLMs e SLMs** (para resolução de problemas e otimização dos meus estudos e desenvolvimento pessoal)
 
 ---
 
@@ -52,14 +52,11 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=othongustavo99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othongustavo99&layout=compact&theme=tokyonight"/>
+  
+  <!-- Top Linguagens com foco em Flutter e Dart -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othongustavo99&layout=compact&theme=tokyonight&langs_count=8&hide=html,css"/>
 </p>
 
 ---
 
-**Vamos construir algo incrível juntos!** 🚀
-<h1 align="center">## 🔥 Sequência de commits
-
-<h1 align="center"><p>
-<h1 align="center">  <img src="https://streak-stats.demolab.com?user=othongustavo99&theme=tokyonight" />
-<h1 align="center"></p>
+**Flutter & Dart são minhas principais tecnologias!** 🚀
