@@ -9,32 +9,32 @@ Seja bem-vindo ao meu perfil!
 
 <p align="center">## 👨‍💻 Sobre mim
 
-- 📱 Desenvolvedor Flutter / Dart
-- 🤖 Engenheiro de prompts 
-- 📚 Atualmente estudando ainda mais Dart, Flutter, Banco de Dados e APIs REST
-- 🚀 Construindo projetos para evoluir como desenvolvedor Mobile
-- 🎯 Objetivo: ingressar no mercado e me tornar um desenvolvedor Flutter Full Stack
+<p align="center">- 📱 Desenvolvedor Flutter / Dart
+<p align="center">- 🤖 Engenheiro de prompts 
+<p align="center">- 📚 Atualmente estudando ainda mais Dart, Flutter, Banco de Dados e APIs REST
+<p align="center">- 🚀 Construindo projetos para evoluir como desenvolvedor Mobile
+<p align="center">- 🎯 Objetivo: ingressar no mercado e me tornar um desenvolvedor Flutter Full Stack
 
 
-## 🛠️ Tecnologias que aprendi e ainda estou evoluindo
+<p align="center">## 🛠️ Tecnologias que aprendi e ainda estou evoluindo
 
-- Flutter
-- Dart
-- Git e GitHub
-- SQLite
-- APIs REST
-- Postman
-- LLM's e SLM's para resolução de problemas e criação de conteúdo especializado
+<p align="center">- Flutter
+<p align="center">- Dart
+<p align="center">- Git e GitHub
+<p align="center">- SQLite
+<p align="center">- APIs REST
+<p align="center">- Postman
+<p align="center">- LLM's e SLM's para resolução de problemas e criação de conteúdo especializado
 
-## 📈 Atualmente
+<p align="center">## 📈 Atualmente
 
-- 💻 Desenvolvendo aplicativos com Flutter
-- 📖 Estudando todos os dias
-- 🚀 Em constante evolução
+<p align="center">- 💻 Desenvolvendo aplicativos com Flutter
+<p align="center">- 📖 Estudando todos os dias
+<p align="center">- 🚀 Em constante evolução
 
-## 🛠️ Tecnologias
+<p align="center">## 🛠️ Tecnologias
 
-<p align="left">
+<h1 align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,androidstudio,sqlite,ai,postman,mysql" />
 </p>
 
