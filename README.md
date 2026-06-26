@@ -5,7 +5,7 @@
 Desenvolvedor Flutter em formação • Mobile • APIs • IA
 </p>
 
-Seja bem-vindo ao meu perfil!
+<h1 align="center">Seja bem-vindo ao meu perfil!
 
 <p align="center">## 👨‍💻 Sobre mim
 
@@ -40,13 +40,13 @@ Seja bem-vindo ao meu perfil!
 
 ## 📊 Estatísticas
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=othongustavo99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othongustavo99&layout=compact&theme=tokyonight"/>
-</p>
+<h1 align="center"><p>
+ <h1 align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=othongustavo99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <h1 align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?<h1 align="center">username=othongustavo99&layout=compact&theme=tokyonight"/>
+<h1 align="center"></p>
 
-## 🔥 Sequência de commits
+<h1 align="center">## 🔥 Sequência de commits
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=othongustavo99&theme=tokyonight" />
-</p>
+<h1 align="center"><p>
+<h1 align="center">  <img src="https://streak-stats.demolab.com?user=othongustavo99&theme=tokyonight" />
+<h1 align="center"></p>
