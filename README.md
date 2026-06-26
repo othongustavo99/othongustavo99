@@ -7,7 +7,7 @@ Desenvolvedor Flutter em formação • Mobile • APIs • IA
 
 Seja bem-vindo ao meu perfil!
 
-## 👨‍💻 Sobre mim
+<p align="center">## 👨‍💻 Sobre mim
 
 - 📱 Desenvolvedor Flutter / Dart
 - 🤖 Engenheiro de prompts 
