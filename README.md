@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Apaixonado por criar aplicativos mobile intuitivos e funcionais com Flutter & Dart.
+  Apaixonado por criar aplicativos mobile intuitivos e funcionais com Flutter, Dart & Java.
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 
 ## 👨‍💻 Sobre mim
 
-- 📱 **Desenvolvedor Flutter / Dart** focado no ecossistema mobile.
+- 📱 **Desenvolvedor Flutter / Dart / Java** focado no ecossistema mobile.
 - 🤖 **Engenheiro de Prompts** aplicando inteligência artificial (LLMs) em soluções práticas.
-- 📚 Estudando constantemente **Dart Avançado, Arquitetura de Software, APIs REST e Bancos de Dados**.
+- 📚 Estudando constantemente **Dart Avançado, Java Básico, Arquitetura de Software, APIs REST e Bancos de Dados**.
 - 🚀 Construindo projetos práticos para evoluir diariamente e gerar código limpo.
 - 🎯 **Objetivo:** Ingressar no mercado como **Desenvolvedor Flutter Júnior**.
 
@@ -54,6 +54,7 @@
   <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=111216" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-111216?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VS Code" />
   <img src="https://img.shields.io/badge/Android_Studio-111216?style=for-the-badge&logo=android-studio&logoColor=3DDC84" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-111216?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
 ---
