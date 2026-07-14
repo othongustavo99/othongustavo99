@@ -32,6 +32,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-FF69B4?style=for-the-badge&logo=flutter&logoColor=111216" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-FF69B4?style=for-the-badge&logo=dart&logoColor=111216" alt="Dart" />
+  <img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java" />
 </p>
 
 ### 🗄️ Bancos de Dados & APIs:
