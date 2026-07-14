@@ -71,13 +71,16 @@ Aqui você encontra os projetos que desenvolvi para consolidar meu aprendizado:
 
 ---
 
-## 📈 Estatísticas
+## 📈 Roadmap
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=othongustavo99&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=othongustavo99&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-100%25-success?style=for-the-badge&logo=flutter"/>
+  <img src="https://img.shields.io/badge/Dart-100%25-success?style=for-the-badge&logo=dart"/>
+  <img src="https://img.shields.io/badge/Java-50%25-orange?style=for-the-badge&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/Firebase-60%25-yellow?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/APIs_REST-80%25-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-90%25-red?style=for-the-badge&logo=git"/>
 </p>
-
 ---
 
 <p align="center">
