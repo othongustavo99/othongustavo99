@@ -1,11 +1,11 @@
 <h1 align="center">Olá, eu sou o Othon Gustavo 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Flutter em formação</strong> • Mobile • APIs • IA
+  <strong>Desenvolvedor Flutter em formação</strong> • Mobile • APIs REST • IA
 </p>
 
 <p align="center">
-  Apaixonado por criar aplicativos mobile intuitivos e funcionais com Flutter, Dart & Java.
+  Apaixonado por criar aplicativos mobile intuitivos e funcionais utilizando Flutter, Dart & Java.
 </p>
 
 <p align="center">
@@ -18,10 +18,11 @@
 
 ## 👨‍💻 Sobre mim
 
-- 📱 **Desenvolvedor Flutter / Dart / Java** focado no ecossistema mobile.
+- 📱 **Desenvolvedor Flutter / Dart / Java** focado no desenvolvimento mobile.
 - 🤖 **Engenheiro de Prompts** aplicando inteligência artificial (LLMs) em soluções práticas.
-- 📚 Estudando constantemente **Dart Avançado, Java Básico, Arquitetura de Software, APIs REST e Bancos de Dados**.
-- 🚀 Construindo projetos práticos para evoluir diariamente e gerar código limpo.
+- 🌐 Experiência prática com **consumo de APIs REST, manipulação de JSON e implementação de CRUD completo**.
+- 📚 Estudando constantemente **Dart Avançado, Java, Arquitetura de Software, APIs REST e Bancos de Dados**.
+- 🚀 Construindo projetos práticos para evoluir diariamente e desenvolver código limpo e organizado.
 - 🎯 **Objetivo:** Ingressar no mercado como **Desenvolvedor Flutter Júnior**.
 
 ---
@@ -33,6 +34,14 @@
   <img src="https://img.shields.io/badge/Flutter-FF69B4?style=for-the-badge&logo=flutter&logoColor=111216" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-FF69B4?style=for-the-badge&logo=dart&logoColor=111216" alt="Dart" />
   <img src="https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=F89820" alt="Java" />
+</p>
+
+### 🌐 APIs & Integrações:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-FF69B4?style=for-the-badge&logo=fastapi&logoColor=111216" alt="REST API" />
+  <img src="https://img.shields.io/badge/JSON-FF69B4?style=for-the-badge&logo=json&logoColor=111216" alt="JSON" />
+  <img src="https://img.shields.io/badge/Postman-FF69B4?style=for-the-badge&logo=postman&logoColor=111216" alt="Postman" />
 </p>
 
 ### 🗄️ Bancos de Dados & APIs:
@@ -61,15 +70,26 @@
 
 ## 📱 Meus Projetos
 
-Aqui você encontra os projetos que desenvolvi para consolidar meu aprendizado:
+Aqui você encontra projetos desenvolvidos para consolidar meu aprendizado:
 
-* 📦 **App Mãe** → Ecossistema centralizado projetado para integrar e gerenciar todos os meus mini-aplicativos em um único ecossistema mobile.
-* 🧠 **Flutter Quiz** → Aplicativo interativo de perguntas e respostas focando em gerenciamento de estados.
-* 🎲 **Roll Dice** → Utilitário dinâmico com animações simples para geração de resultados aleatórios.
-* 👥 **Contador de Pessoas** → Um controlador de fluxo extremamente intuitivo para estabelecimentos.
-* 🤖 **Prompt Terra / Rosa / Restauração** → Suíte de ferramentas focada em IA e otimização de instruções para LLMs.
+* 📦 **App Mãe** → Ecossistema centralizado projetado para integrar e gerenciar meus mini-aplicativos em um único ambiente mobile.
 
----
+* 🌐 **Consumo JSONPlaceholder + CRUD Flutter** → Aplicativo desenvolvido para praticar integração com APIs REST, trabalhando com:
+  - Consumo de dados JSON
+  - Models e Services
+  - Requisições HTTP
+  - GET, POST, PUT e DELETE
+  - Formulários com criação e edição
+  - Exclusão com confirmação
+  - Tradução automática utilizando API externa
+
+* 🧠 **Flutter Quiz** → Aplicativo interativo de perguntas e respostas focado em gerenciamento de estado.
+
+* 🎲 **Roll Dice** → Aplicativo de geração de resultados aleatórios com animações simples.
+
+* 👥 **Contador de Pessoas** → Controlador de fluxo desenvolvido para praticar lógica e gerenciamento de estado.
+
+* 🤖 **Prompt Terra / Rosa / Restauração** → Suíte de ferramentas focada em Inteligência Artificial e otimização de instruções para LLMs.
 
 ## 📈 Roadmap
 
@@ -78,8 +98,10 @@ Aqui você encontra os projetos que desenvolvi para consolidar meu aprendizado:
   <img src="https://img.shields.io/badge/Dart-100%25-success?style=for-the-badge&logo=dart"/>
   <img src="https://img.shields.io/badge/Java-50%25-orange?style=for-the-badge&logo=openjdk"/>
   <img src="https://img.shields.io/badge/Firebase-60%25-yellow?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/APIs_REST-80%25-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/APIs_REST-90%25-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-90%25-red?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/CRUD-90%25-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dart_Async-85%25-blue?style=for-the-badge"/>
 </p>
 ---
 
