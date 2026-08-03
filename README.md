@@ -10,7 +10,6 @@
   <a href="mailto:othon.gustavo92@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/othon_gustavo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
----
 
 ## 👨‍💻 Sobre mim
 - 📱 **Desenvolvedor Flutter / Dart / Java** focado no desenvolvimento mobile.
@@ -19,7 +18,6 @@
 - 📚 Estudando constantemente **Dart Avançado, Java, Arquitetura de Software, APIs REST e Bancos de Dados**.
 - 🚀 Construindo projetos práticos para evoluir diariamente e desenvolver código limpo e organizado.
 - 🎯 **Objetivo:** Ingressar no mercado como **Desenvolvedor Flutter Júnior**.
----
 
 ## 🛠️ Meu Arsenal de Tecnologias
 
@@ -58,7 +56,6 @@
   <img src="https://img.shields.io/badge/Android_Studio-111216?style=for-the-badge&logo=android-studio&logoColor=3DDC84" alt="Android Studio" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-111216?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
----
 
 ## 📱 Meus Projetos
 Aqui você encontra projetos desenvolvidos para consolidar meu aprendizado:
@@ -75,7 +72,7 @@ Aqui você encontra projetos desenvolvidos para consolidar meu aprendizado:
 * 🎲 **Roll Dice** → Aplicativo de geração de resultados aleatórios com animações simples.
 * 👥 **Contador de Pessoas** → Controlador de fluxo desenvolvido para praticar lógica e gerenciamento de estado.
 * 🤖 **Prompt Terra / Rosa / Restauração** → Suíte de ferramentas focada em Inteligência Artificial e otimização de instruções para LLMs.
----
+
 ## 📈 Roadmap
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-100%25-success?style=for-the-badge&logo=flutter"/>
@@ -87,7 +84,7 @@ Aqui você encontra projetos desenvolvidos para consolidar meu aprendizado:
   <img src="https://img.shields.io/badge/CRUD-90%25-purple?style=for-the-badge&logo=sqlite"/>
   <img src="https://img.shields.io/badge/Dart_Async-85%25-blue?style=for-the-badge&logo=dart"/>
 </p>
----
+
 <p align="center">
   <strong>Sempre aberto para aprender, colaborar e construir algo incrível!</strong> 🚀
 </p>
