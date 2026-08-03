@@ -11,6 +11,7 @@
   <a href="https://instagram.com/othon_gustavo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 ---
+
 ## 👨‍💻 Sobre mim
 - 📱 **Desenvolvedor Flutter / Dart / Java** focado no desenvolvimento mobile.
 - 🤖 **Engenheiro de Prompts** aplicando inteligência artificial (LLMs) em soluções práticas.
@@ -19,6 +20,7 @@
 - 🚀 Construindo projetos práticos para evoluir diariamente e desenvolver código limpo e organizado.
 - 🎯 **Objetivo:** Ingressar no mercado como **Desenvolvedor Flutter Júnior**.
 ---
+
 ## 🛠️ Meu Arsenal de Tecnologias
 
 ### 📱 Mobile & Front-End:
@@ -57,6 +59,7 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-111216?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 ---
+
 ## 📱 Meus Projetos
 Aqui você encontra projetos desenvolvidos para consolidar meu aprendizado:
 * 📦 **App Mãe** → Ecossistema centralizado projetado para integrar e gerenciar meus mini-aplicativos em um único ambiente mobile.
