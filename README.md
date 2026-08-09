@@ -74,7 +74,7 @@
 
 ## 📱 Projetos em Destaque
 
-### 🔴 [Othon's Pokédex](https://github.com/othongustavo99/Othon_Pokedex)
+### 🔴 [Othon's Pokédex](https://github.com/othongustavo99/my-pokedex)
 Pokédex completa e moderna feita com Flutter.
 
 **Principais features:**
