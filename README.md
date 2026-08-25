@@ -81,7 +81,7 @@
 
 ## 📱 Projetos em Destaque
 
-### 🌤️ [HzClima](https://github.com/othongustavo99/hz_clima)
+### 🌤️ [HzClima](https://github.com/othongustavo99/weather-app)
 
 App de clima moderno e completo, com UX polida e arquitetura em camadas.
 
