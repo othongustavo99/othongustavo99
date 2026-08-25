@@ -36,21 +36,26 @@
 ## 🛠️ Meu Arsenal de Tecnologias
 
 ### 📱 Mobile & Front-End
+
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Material%203-FF6F00?style=for-the-badge&logo=materialdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Provider-000000?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ### 🌐 APIs & Integrações
+
 <p align="left">
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open--Meteo-0A84FF?style=for-the-badge&logo=cloud&logoColor=white" />
 </p>
 
 ### 🗄️ Persistência & Cache
+
 <p align="left">
   <img src="https://img.shields.io/badge/SharedPreferences-4285F4?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -58,11 +63,13 @@
 </p>
 
 ### 🤖 Inteligência Artificial
+
 <p align="left">
   <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### ⚙️ Ferramentas
+
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -74,7 +81,28 @@
 
 ## 📱 Projetos em Destaque
 
+### 🌤️ [HzClima](https://github.com/othongustavo99/hz_clima)
+
+App de clima moderno e completo, com UX polida e arquitetura em camadas.
+
+**Principais features:**
+- Clima em tempo real via Open-Meteo (sem API key)
+- Busca por cidade com **autocomplete** (debounce)
+- Localização atual (GPS + reverse geocoding)
+- Previsão de 5 dias
+- Métricas extras: umidade, sensação térmica, precipitação e vento
+- Alternância **°C / °F** com persistência
+- **Favoritos de cidades** (SharedPreferences)
+- Tema claro / escuro (Material 3)
+- Splash animada, pull-to-refresh e estados de loading/erro/empty
+- Botão voltar inteligente (fecha teclado → dois toques para sair)
+
+**Tecnologias usadas:** Flutter • Dart • Provider • HTTP • Geolocator • Shared Preferences • Intl • Material 3
+
+---
+
 ### 🔴 [Othon's Pokédex](https://github.com/othongustavo99/my-pokedex)
+
 Pokédex completa e moderna feita com Flutter.
 
 **Principais features:**
@@ -94,9 +122,11 @@ Pokédex completa e moderna feita com Flutter.
 ---
 
 ### 📦 [App Mãe](https://github.com/othongustavo99/meus-projetos-appMae)
+
 Ecossistema centralizado projetado para integrar e gerenciar meus mini-aplicativos em um único ambiente mobile.
 
 ### 🌐 [Consumo JSONPlaceholder + CRUD](https://github.com/othongustavo99/consumo-jsonPlaceHolder)
+
 Aplicativo para praticar integração com APIs REST:
 - Models e Services
 - GET, POST, PUT e DELETE
@@ -104,9 +134,11 @@ Aplicativo para praticar integração com APIs REST:
 - Tradução automática via API externa
 
 ### 🧠 [Flutter Quiz](https://github.com/othongustavo99/meu-quiz)
+
 Aplicativo interativo de perguntas e respostas focado em gerenciamento de estado.
 
 ### 🤖 Prompt Engineering
+
 Suíte de ferramentas focada em Inteligência Artificial:
 - [Earth Prompt](https://github.com/othongustavo99/ultra-photorealistic-earth-prompt)
 - [Rose Generator](https://github.com/othongustavo99/ultra-photorealistic-rose-generator)
@@ -120,6 +152,7 @@ Suíte de ferramentas focada em Inteligência Artificial:
   <img src="https://img.shields.io/badge/Flutter-100%25-success?style=for-the-badge&logo=flutter"/>
   <img src="https://img.shields.io/badge/Dart-100%25-success?style=for-the-badge&logo=dart"/>
   <img src="https://img.shields.io/badge/APIs_REST-95%25-blue?style=for-the-badge&logo=swagger"/>
+  <img src="https://img.shields.io/badge/Provider-90%25-blue?style=for-the-badge&logo=flutter"/>
   <img src="https://img.shields.io/badge/Cache_Offline-90%25-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-90%25-red?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/Arquitetura-85%25-purple?style=for-the-badge"/>
